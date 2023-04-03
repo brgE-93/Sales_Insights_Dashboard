@@ -1,6 +1,6 @@
 # Sales_Insights_Dashboard
 
-In this Power BI case study, I’ll explore a real-world  dataset from a  company named Atliq hardware .We put ourselves in a fictional scenario to get an overview of lost opportunities and sales .
+In this Power BI case study, I’ll explore a real-world  dataset from a  company named xxx .We put ourselves in a fictional scenario to get an overview of lost opportunities and sales .
 I’ll use Power BI tools ans some Dax expressions  to build insightful visualizations of my findings. 
 
 -Link to the interactive dashboard:
