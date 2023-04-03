@@ -7,5 +7,5 @@ I’ll use Power BI tools ans some Dax expressions  to build insightful visualiz
 https://app.powerbi.com/groups/me/reports/1c11cf4a-489c-4b1c-803b-aedc2d05f5ba/ReportSection
 
 -a static visual:
-![C](https://user-images.githubusercontent.com/79338613/![C](https://user-images.githubusercontent.com/79338613/229527252-e9759bd7-0c16-41eb-9a30-cc9513070ded.png)
-229527185-3c42b871-e478-4bcb-b74d-ac3b8d74c92f.png)
+![C](https://user-images.githubusercontent.com/79338613/229527372-f2360d51-5aec-4651-88f0-94146edef004.png)
+
